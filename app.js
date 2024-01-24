@@ -9,4 +9,4 @@ function ramdom(arr) {
 
 let excuse = ramdom(who) + ' ' + ramdom(action) + ' ' +  ramdom(what) + ' ' +  ramdom(when);
 
-console.log(excuse);
+console.log(excuse); 
